@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\Objektinis\Objektinis\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\admin\Desktop\Objektinis\Objektinis\Visitor\bin\Debug\Visitor.exe
+C:\Users\admin\Desktop\Objektinis\Objektinis\Visitor\bin\Debug\Visitor.pdb
+C:\Users\admin\Desktop\Objektinis\Objektinis\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Objektinis\Objektinis\Visitor\obj\Debug\Visitor.exe
+C:\Users\admin\Desktop\Objektinis\Objektinis\Visitor\obj\Debug\Visitor.pdb
