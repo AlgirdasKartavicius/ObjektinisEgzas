@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Objektinis\Objektinis\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Users\admin\Desktop\Objektinis\Objektinis\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\admin\Desktop\Objektinis\Objektinis\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\admin\Desktop\Objektinis\Objektinis\Flyweight\obj\Debug\Flyweight.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Objektinis\Objektinis\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Objektinis\Objektinis\Flyweight\obj\Debug\Flyweight.exe
+C:\Users\admin\Desktop\Objektinis\Objektinis\Flyweight\obj\Debug\Flyweight.pdb
