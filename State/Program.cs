@@ -10,7 +10,10 @@ namespace State
     {
         static void Main(string[] args)
         {
-            Context context = new Context(new TvOff());
+            State state = new TvOff();
+            Context context = new Context(state);
+            state.GoNext(context);
+            
             context.Request();
             Console.ReadKey();
 
@@ -20,9 +23,15 @@ namespace State
     public interface State
     {
         void Handle();
+        void GoNext(Context c);
     }
     public class TvOn : State
     {
+        public void GoNext(Context c)
+        {
+            c.SetState(new TvOff());
+        }
+
         public void Handle()
         {
             Console.WriteLine("Tv on");
@@ -30,6 +39,11 @@ namespace State
     }
     public class TvOff : State
     {
+        public void GoNext(Context c)
+        {
+            c.SetState(new TvOn());
+        }
+
         public void Handle()
         {
             Console.WriteLine("Tv off");
@@ -37,6 +51,7 @@ namespace State
     }
     public class Context
     {
+        List<State> states = new List<State>();
         State state;
 
         public Context(State state)
@@ -46,6 +61,7 @@ namespace State
 
         public void SetState(State state)
         {
+            states.Add(state);
             this.state = state;
         }
         public void Request()
