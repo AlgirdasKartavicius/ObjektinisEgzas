@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Objektinis\Objektinis\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\admin\Desktop\Objektinis\Objektinis\Proxy\bin\Debug\Proxy.exe
+C:\Users\admin\Desktop\Objektinis\Objektinis\Proxy\bin\Debug\Proxy.pdb
+C:\Users\admin\Desktop\Objektinis\Objektinis\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Objektinis\Objektinis\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Objektinis\Objektinis\Proxy\obj\Debug\Proxy.exe
+C:\Users\admin\Desktop\Objektinis\Objektinis\Proxy\obj\Debug\Proxy.pdb

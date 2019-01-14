@@ -10,6 +10,8 @@ namespace Proxy
     {
         static void Main(string[] args)
         {
+            Image image = new ImageProxy("test");
+            image.ShowImage();
             Console.ReadKey();
 
            
