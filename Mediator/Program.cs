@@ -67,8 +67,8 @@ namespace Mediator
     {
         public Student(Mediator mediator, string newName) : base (mediator, newName)
         {
-            m = mediator;
-            name = newName;
+            //m = mediator;
+            //name = newName;
         }
         public override void ReceiveMessage(string mesg)
         {
