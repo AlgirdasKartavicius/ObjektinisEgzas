@@ -22,14 +22,7 @@ namespace Composite
             foreach (var item in c.GetChild())
             {
                 item.Operation();
-                if (item.IsComposite())
-                {
-
-                foreach (var item2 in item.GetChild())
-                {
-                    item2.Operation();
-                }
-                }
+                
             }
 
             Console.ReadKey();
@@ -100,6 +93,10 @@ namespace Composite
             public override void Operation()
             {
                 Console.WriteLine("Army operation");
+                foreach (var item in this.GetChild())
+                {
+                    item.Operation();
+                }
             }
         }
 
@@ -112,6 +109,10 @@ namespace Composite
             public override void Operation()
             {
                 Console.WriteLine("Group operation");
+                foreach (var item in this.GetChild())
+                {
+                    item.Operation();
+                }
             }
         }
     }
