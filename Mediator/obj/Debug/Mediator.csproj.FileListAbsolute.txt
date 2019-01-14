@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Objektinis\Objektinis\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\admin\Desktop\Objektinis\Objektinis\Mediator\bin\Debug\Mediator.exe
+C:\Users\admin\Desktop\Objektinis\Objektinis\Mediator\bin\Debug\Mediator.pdb
+C:\Users\admin\Desktop\Objektinis\Objektinis\Mediator\obj\Debug\Mediator.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Objektinis\Objektinis\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Objektinis\Objektinis\Mediator\obj\Debug\Mediator.exe
+C:\Users\admin\Desktop\Objektinis\Objektinis\Mediator\obj\Debug\Mediator.pdb
