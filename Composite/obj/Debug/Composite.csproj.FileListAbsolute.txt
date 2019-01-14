@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Objektinis\Objektinis\Composite\bin\Debug\Composite.exe.config
+C:\Users\admin\Desktop\Objektinis\Objektinis\Composite\bin\Debug\Composite.exe
+C:\Users\admin\Desktop\Objektinis\Objektinis\Composite\bin\Debug\Composite.pdb
+C:\Users\admin\Desktop\Objektinis\Objektinis\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Objektinis\Objektinis\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Objektinis\Objektinis\Composite\obj\Debug\Composite.exe
+C:\Users\admin\Desktop\Objektinis\Objektinis\Composite\obj\Debug\Composite.pdb
