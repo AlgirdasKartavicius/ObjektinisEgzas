@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Objektinis\Objektinis\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe.config
+C:\Users\admin\Desktop\Objektinis\Objektinis\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe
+C:\Users\admin\Desktop\Objektinis\Objektinis\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.pdb
+C:\Users\admin\Desktop\Objektinis\Objektinis\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Objektinis\Objektinis\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Objektinis\Objektinis\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.exe
+C:\Users\admin\Desktop\Objektinis\Objektinis\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.pdb
